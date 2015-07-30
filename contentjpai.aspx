@@ -9,8 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Ji test change1
-    jp test change2
+    Ji test change 1
+	Ji test change 2
     </div>
     </form>
 </body>
