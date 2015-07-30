@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="contentjpai.aspx.vb" Inherits="contentjpai" %>
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="content2jpai.aspx.vb" Inherits="content2jpai" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,10 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Ji test change 1
-	Ji test change 2
-    jp test change2
-	jp test change3
+    
     </div>
     </form>
 </body>
